@@ -6,7 +6,6 @@
 
 2. Se crea el repositorio remoto:
 ![Creacion Repositorio](/P2/ASSET/CreaRepoRemo.png)
-Format: ![Creacion Repositorio](url)
 
 3. Se especifica la url del repositorio remoto en local, para ello usamos el comando:
 `git remote add origin https://github.com/Alba1999/P02-20.git`
