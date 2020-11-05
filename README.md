@@ -5,7 +5,7 @@
 `git init` 
 
 2. Se crea el repositorio remoto:
-(/ASSET/CreaRepoRemo.png)
+(/P2/ASSET/CreaRepoRemo.png)
 Format: (url)
 
 3. Se especifica la url del repositorio remoto en local, para ello usamos el comando:
