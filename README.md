@@ -1,6 +1,6 @@
 # P02-20
 
-##Creación de un repositorio
+## Creación de un repositorio
 1. Se inicializa el repositorio en local usando el comando:
 `git init` 
 
